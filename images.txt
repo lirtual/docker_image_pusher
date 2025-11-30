@@ -4,5 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-selenium/standalone-chrome
-ghcr.io/dgtlmoon/changedetection.io
+dgtlmoon/sockpuppetbrowser:latest
