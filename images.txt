@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-1995chen/dnf:centos7-2.1.6
+dreamacro/clash-premium
