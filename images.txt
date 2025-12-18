@@ -4,5 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-rclone/rclone:latest
-n8nio/n8n:latest
+lscr.io/linuxserver/duplicati:latest
